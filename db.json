@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "email": "admin@example.com",
+      "password": "admin123"
+    },
+    {
+      "id": 2,
+      "username": "user",
+      "email": "user@example.com",
+      "password": "user123"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 999.99,
+      "category": "electronics",
+      "description": "High-performance laptop for work and gaming",
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400&h=300&fit=crop"
+    },
+    {
+      "id": 2,
+      "name": "T-Shirt",
+      "price": 19.99,
+      "category": "clothing",
+      "description": "Comfortable cotton t-shirt",
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400&h=300&fit=crop"
+    },
+    {
+      "id": 3,
+      "name": "Book",
+      "price": 29.99,
+      "category": "books",
+      "description": "Interesting novel about technology",
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=300&fit=crop"
+    }
+  ]
+}
